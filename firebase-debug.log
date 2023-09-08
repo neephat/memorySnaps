@@ -1,0 +1,21 @@
+[debug] [2023-09-05T15:39:39.292Z] ----------------------------------------------------------------------
+[debug] [2023-09-05T15:39:39.298Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Neephat\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-05T15:39:39.299Z] CLI Version:   12.5.2
+[debug] [2023-09-05T15:39:39.300Z] Platform:      win32
+[debug] [2023-09-05T15:39:39.301Z] Node Version:  v18.14.0
+[debug] [2023-09-05T15:39:39.303Z] Time:          Tue Sep 05 2023 21:39:39 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-09-05T15:39:39.303Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-05T15:39:39.326Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-05T15:39:39.327Z] > authorizing via signed-in user (neephat.benazir@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\JS\Bohubrihi\JavaScript\React\Apps\memorySnaps
+

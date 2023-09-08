@@ -1,0 +1,12 @@
+.catBtn {
+    background-color: #ffc107 !important;
+}
+.catBtn:hover{
+    background-color: #e1af08 !important;
+}
+.catBtn:focus {
+    background: blueviolet !important;
+    color: white !important;
+    outline: none !important;
+    border: none !important;
+}

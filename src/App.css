@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.footer{
+  color: white;
+  margin: 0px auto;
+  padding-top: 10px;
+  bottom: 0;
+  width: 100%;
+}
+
+.row-content{
+  margin: 0px auto;
+  padding: 20px 0px 80px 0px;
+  min-height: 400px;
+}
+/* .body-color{
+  background: black;
+} */
+.snowFlake{
+  font-size: 15rem;
+}
